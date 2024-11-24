@@ -32,7 +32,7 @@ I am currently exploring [what you're working on right now, e.g., "advanced mach
  [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
  [![Matplotlib](https://img.shields.io/badge/Matplotlib-%2300c4cc.svg?style=flat-square&logo=python&logoColor=white)](https://matplotlib.org/)
  [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
- [!Wavelet](https://img.shields.io/badge/Wavelet-Processing-00bfae?style=flat-square)
+ ![Wavelet](https://img.shields.io/badge/Wavelet-Processing-00bfae?style=flat-square)
 
 
 # GitHub Stats for 76basant
