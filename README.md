@@ -29,7 +29,7 @@ This repository contains my Python projects utilizing various libraries.
 
 
 ## GitHub Stats 📊  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![76basant's GitHub stats](https://github-readme-stats.vercel.app/api?username=76basant&show_icons=true&theme=radical)
 
 ## Notable Projects 💡  
 Here are some of my key projects that showcase my skills and expertise:
