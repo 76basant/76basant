@@ -44,15 +44,19 @@ I am currently exploring [what you're working on right now, e.g., "advanced mach
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=76basant&layout=compact&theme=radical)
 
-## Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=76basant&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+<!--## Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=76basant&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)-->
+
+## Guided Projects 💡
+1. **[Wavelet Package ](https://github.com/ct6502/wavelets)**: Torrence Package of Wavelet.  
+2. **[Cross-Wavelet & Wavelet Coherence Package ](https://github.com/grinsted/wavelet-coherence)**: Grinsted Package of Cross-Wavelet and Wavelet Coherence.  
 
 ## Notable Projects 💡  
 Here are some of my key projects that showcase my skills and expertise:
 
 1. **[Physics Lab Experiments](https://github.com/76basant/Physics-Lab-Experiments-.git)**: Physics Lab Experiments.  
 2. **[Time Series Analysis](https://github.com/76basant/Time-Series-Analysis.git)**: Time Series Analysis.  
-3. **[Machine Learning Projects ](https://github.com/76basant/Machine-Learning-Projects.git)**: A description of another notable project you worked on.  
+3. **[Machine Learning Projects ](https://github.com/76basant/Machine-Learning-Projects.git)**: Machine Learning Projects.  
 
 
 <!-- ## Achievements 🏆  
