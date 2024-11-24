@@ -14,7 +14,11 @@ I am currently exploring [what you're working on right now, e.g., "advanced mach
 - ![Wolfram Mathematica](https://img.shields.io/badge/Wolfram_Mathematica-DD1100?style=flat-square&logo=wolfram-mathematica&logoColor=white)
 
 
-- **Other Skills**: Data Analysis, Machine Learning, Git
+- **Other Skills**: Data Analysis,
+-  ![Linear Regression](https://img.shields.io/badge/Linear_Regression-FF6F00?style=flat-square&logo=python&logoColor=white)
+-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+- ![Data Analysis](https://img.shields.io/badge/Data_Analysis-0095D9?style=flat-square&logo=python&logoColor=white)
+
 <!-- - **Frameworks & Tools**: TensorFlow, React, Node.js, Docker, etc.  -->
 <!-- - **Databases**: MySQL, MongoDB, PostgreSQL  -->
 <!-- - **Cloud Services**: AWS, Google Cloud, Azure  -->
