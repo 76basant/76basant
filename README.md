@@ -41,9 +41,9 @@ This repository contains my Python projects utilizing various libraries.
 ## Notable Projects 💡  
 Here are some of my key projects that showcase my skills and expertise:
 
-1. **[Project 1 Name](link-to-project)**: Brief description of what the project is about and the technologies used.  
-2. **[Project 2 Name](link-to-project)**: Another project description showcasing your work.  
-3. **[Project 3 Name](link-to-project)**: A description of another notable project you worked on.
+1. **[Project 1 Name]([link-to-project](https://github.com/76basant/Physics-Lab-Experiments-.git))**: Physics Lab Exoeriments.  
+2. **[Project 2 Name]([link-to-project](https://github.com/76basant/Time-Series-Analysis.git))**: Time Series Analysis. 
+   ````3. **[Project 3 Name](link-to-project)**: A description of another notable project you worked on.
 
 ## Achievements 🏆  
 - Contributed to [Project/Repo Name], which [short description of your contribution].  
