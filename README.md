@@ -24,9 +24,6 @@ I am currently exploring [what you're working on right now, e.g., "advanced mach
 <!-- - **Cloud Services**: AWS, Google Cloud, Azure  -->
 
 
-- # My Python Repository
-
-This repository contains my Python projects utilizing various libraries.
 
 ## Libraries Used
 
@@ -35,6 +32,7 @@ This repository contains my Python projects utilizing various libraries.
  [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
  [![Matplotlib](https://img.shields.io/badge/Matplotlib-%2300c4cc.svg?style=flat-square&logo=python&logoColor=white)](https://matplotlib.org/)
  [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+ [!Wavelet](https://img.shields.io/badge/Wavelet-Processing-00bfae?style=flat-square)
 
 
 # GitHub Stats for 76basant
@@ -56,14 +54,14 @@ Here are some of my key projects that showcase my skills and expertise:
 3. **[Machine Learning Projects ](https://github.com/76basant/Machine-Learning-Projects.git)**: A description of another notable project you worked on.  
 
 
-## Achievements 🏆  
+<--! ## Achievements 🏆  
 - Contributed to [Project/Repo Name], which [short description of your contribution].  
 - Developed [Tool/Software Name] that [description of what it does].  
-- [Any other professional achievements or recognitions].
+- [Any other professional achievements or recognitions]. -->
 
 ## Get in Touch 📬  
-- 📧 Email: [basantmagdy0346@gmail.com]  
-- 🔗 LinkedIn: [linkedin.com/in/basant-magdy-habashy-221945142]
+- 📧 Email: [basantmagdyhabshy@gmail.com]  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/ADoAACKqsvkB75qUcwvgLXBFjfRZ-OEwn61CMYI]
 
 <!-- - 🌐 Website/Portfolio: [your-portfolio-link.com]  
   
