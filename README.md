@@ -12,6 +12,17 @@ I am currently exploring [what you're working on right now, e.g., "advanced mach
 - **Cloud Services**: AWS, Google Cloud, Azure  
 - **Other Skills**: Data Analysis, Machine Learning, API Development, Git
 
+- # My Python Repository
+
+This repository contains my Python projects utilizing various libraries.
+
+## Libraries Used
+
+- [![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
+- [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+- [![Matplotlib](https://img.shields.io/badge/Matplotlib-%2300c4cc.svg?style=flat-square&logo=python&logoColor=white)](https://matplotlib.org/)
+
+
 ## GitHub Stats 📊  
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
