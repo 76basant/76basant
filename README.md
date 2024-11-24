@@ -27,9 +27,16 @@ This repository contains my Python projects utilizing various libraries.
 - [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 
 
+# GitHub Stats for 76basant
 
-## GitHub Stats 📊  
+## My GitHub Stats
 ![76basant's GitHub stats](https://github-readme-stats.vercel.app/api?username=76basant&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=76basant&layout=compact&theme=radical)
+
+## Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=76basant&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Notable Projects 💡  
 Here are some of my key projects that showcase my skills and expertise:
