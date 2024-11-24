@@ -1,15 +1,13 @@
 # Hi there, I'm [Basant Magdy] 👋
 
----
+
 ## About Me 🚀  
 
----
 
 I am a dedicated researcher specializing in the study of solar and geomagnetic activity, with a particular focus on understanding the complex interactions between these phenomena. My research involves analyzing time series data from solar and geomagnetic parameters, using advanced statistical and computational techniques to uncover patterns and correlations that drive these dynamic systems. By delving into the relationship between solar activity—such as solar flares and coronal mass ejections—and geomagnetic disturbances on Earth, I aim to contribute to a deeper understanding of space weather and its effects on our planet.
 
 In addition to traditional analytical methods, I am exploring the application of machine learning models to forecast geomagnetic storms. By training these models on historical data, I seek to improve prediction accuracy, enabling better preparedness for the potential impacts of these storms on technological systems, communication networks, and satellite operations. My work combines both theoretical and practical approaches, with the goal of advancing predictive capabilities in space weather science and mitigating the risks associated with geomagnetic activity.
 
----
 
 ## Skills and Technologies 🛠️  
 - **Programming Languages**:
@@ -18,7 +16,7 @@ In addition to traditional analytical methods, I am exploring the application of
  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
  ![Wolfram Mathematica](https://img.shields.io/badge/Wolfram_Mathematica-DD1100?style=flat-square&logo=wolfram-mathematica&logoColor=white)
 
----
+
 - **Other Skills**: 
 -  ![Linear Regression](https://img.shields.io/badge/Linear_Regression-FF6F00?style=flat-square&logo=python&logoColor=white)
 -  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -29,7 +27,7 @@ In addition to traditional analytical methods, I am exploring the application of
 <!-- - **Cloud Services**: AWS, Google Cloud, Azure  -->
 
 
----
+
 ## Libraries Used
 
 
@@ -40,23 +38,22 @@ In addition to traditional analytical methods, I am exploring the application of
  ![Wavelet](https://img.shields.io/badge/Wavelet-Processing-00bfae?style=flat-square)
  ![Cross-Wavelet and Wavelet Coherence](https://img.shields.io/badge/Cross--Wavelet%20and%20Wavelet%20Coherence-Analysis-0066cc?style=flat-square)
 
----
+
 # GitHub Stats for 76basant
 
 ## My GitHub Stats
 ![76basant's GitHub stats](https://github-readme-stats.vercel.app/api?username=76basant&show_icons=true&theme=radical)
 
----
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=76basant&layout=compact&theme=radical)
----
+
 <!--## Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=76basant&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)-->
----
+
 ## Guided Projects 💡
 1. **[Wavelet Package ](https://github.com/ct6502/wavelets)**: Torrence Package of Wavelet.  
 2. **[Cross-Wavelet & Wavelet Coherence Package ](https://github.com/grinsted/wavelet-coherence)**: Grinsted Package of Cross-Wavelet and Wavelet Coherence.  
----
+
 ## Notable Projects 💡  
 Here are some of my key projects that showcase my skills and expertise:
 
@@ -64,12 +61,12 @@ Here are some of my key projects that showcase my skills and expertise:
 2. **[Time Series Analysis](https://github.com/76basant/Time-Series-Analysis.git)**: Time Series Analysis.  
 3. **[Machine Learning Projects ](https://github.com/76basant/Machine-Learning-Projects.git)**: Machine Learning Projects.  
 
----
+
 <!-- ## Achievements 🏆  
 - Contributed to [Project/Repo Name], which [short description of your contribution].  
 - Developed [Tool/Software Name] that [description of what it does].  
 - [Any other professional achievements or recognitions]. -->
----
+
 ## Get in Touch 📬  
 - 📧 Email: [basantmagdyhabshy@gmail.com]  
 - 🔗 LinkedIn: [https://www.linkedin.com/in/ADoAACKqsvkB75qUcwvgLXBFjfRZ-OEwn61CMYI]
