@@ -33,8 +33,7 @@ I am currently exploring [what you're working on right now, e.g., "advanced mach
  [![Matplotlib](https://img.shields.io/badge/Matplotlib-%2300c4cc.svg?style=flat-square&logo=python&logoColor=white)](https://matplotlib.org/)
  [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
  ![Wavelet](https://img.shields.io/badge/Wavelet-Processing-00bfae?style=flat-square)
- ![Cross-Wavelet](https://img.shields.io/badge/Cross--Wavelet-Analysis-0066cc?style=flat-square)
- ![Wavelet Coherence](https://your-image-link.com/wavelet-coherence-icon.png)
+ ![Cross-Wavelet and Wavelet Coherence](https://img.shields.io/badge/Cross--Wavelet%20and%20Wavelet%20Coherence-Analysis-0066cc?style=flat-square)
 
 
 # GitHub Stats for 76basant
