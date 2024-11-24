@@ -19,6 +19,9 @@ In addition to traditional analytical methods, I am exploring the application of
 
 - **Other Skills**: 
   ![Linear Regression](https://img.shields.io/badge/Linear_Regression-FF6F00?style=flat-square&logo=python&logoColor=white)
+ ![Polynomial Regression](https://img.shields.io/badge/Polynomial%20Regression-Blue?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48cGF0aCBkPSJNMTIgMEM1LjM4MyAwIDAgNS4zODMgMCAxMnM1LjM4MyAxMiAxMiAxMiAxMi01LjM4MyAxMi0xMlMxOC42MTcgMCAxMiAwem0wIDIyYy05LjA0MiAwLTE2LTYuOTU4LTE2LTE2UzIuOTU4IDIgMTIgMmgwYzkuMDQyIDAgMTYgNi45NTggMTYgMTZzLTYuOTU4IDE2LTE2IDE2eiIgZmlsbD0iI0ZGRkZGRiIvPjwvc3ZnPg==&logoColor=white)
+
+
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
  ![Data Analysis](https://img.shields.io/badge/Data_Analysis-0095D9?style=flat-square&logo=python&logoColor=white)
 
