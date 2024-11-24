@@ -17,10 +17,15 @@ I am currently exploring [what you're working on right now, e.g., "advanced mach
 This repository contains my Python projects utilizing various libraries.
 
 ## Libraries Used
+- ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+
+- [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
 - [![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
 - [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 - [![Matplotlib](https://img.shields.io/badge/Matplotlib-%2300c4cc.svg?style=flat-square&logo=python&logoColor=white)](https://matplotlib.org/)
+- [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+
 
 
 ## GitHub Stats 📊  
