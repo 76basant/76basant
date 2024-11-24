@@ -18,9 +18,9 @@ In addition to traditional analytical methods, I am exploring the application of
 
 
 - **Other Skills**: 
--  ![Linear Regression](https://img.shields.io/badge/Linear_Regression-FF6F00?style=flat-square&logo=python&logoColor=white)
--  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-- ![Data Analysis](https://img.shields.io/badge/Data_Analysis-0095D9?style=flat-square&logo=python&logoColor=white)
+  ![Linear Regression](https://img.shields.io/badge/Linear_Regression-FF6F00?style=flat-square&logo=python&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+ ![Data Analysis](https://img.shields.io/badge/Data_Analysis-0095D9?style=flat-square&logo=python&logoColor=white)
 
 <!-- - **Frameworks & Tools**: TensorFlow, React, Node.js, Docker, etc.  -->
 <!-- - **Databases**: MySQL, MongoDB, PostgreSQL  -->
