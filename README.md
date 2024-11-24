@@ -14,7 +14,7 @@ I am currently exploring [what you're working on right now, e.g., "advanced mach
 - ![Wolfram Mathematica](https://img.shields.io/badge/Wolfram_Mathematica-DD1100?style=flat-square&logo=wolfram-mathematica&logoColor=white)
 
 
-- **Other Skills**: Data Analysis,
+- **Other Skills**: 
 -  ![Linear Regression](https://img.shields.io/badge/Linear_Regression-FF6F00?style=flat-square&logo=python&logoColor=white)
 -  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 - ![Data Analysis](https://img.shields.io/badge/Data_Analysis-0095D9?style=flat-square&logo=python&logoColor=white)
@@ -32,10 +32,10 @@ This repository contains my Python projects utilizing various libraries.
 
 - [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
-- [![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
-- [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-- [![Matplotlib](https://img.shields.io/badge/Matplotlib-%2300c4cc.svg?style=flat-square&logo=python&logoColor=white)](https://matplotlib.org/)
-- [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+ [![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
+ [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+ [![Matplotlib](https://img.shields.io/badge/Matplotlib-%2300c4cc.svg?style=flat-square&logo=python&logoColor=white)](https://matplotlib.org/)
+ [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 
 
 # GitHub Stats for 76basant
