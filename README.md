@@ -2,7 +2,7 @@
 
 
 ## About Me 🚀  
-Certainly! Here's an expanded version of your research description:
+
 
 ---
 
@@ -12,7 +12,6 @@ In addition to traditional analytical methods, I am exploring the application of
 
 ---
 
-This version gives a more detailed view of your research focus, including both the analytical and applied aspects of your work. Let me know if you'd like any further adjustments!
 ## Skills and Technologies 🛠️  
 - **Programming Languages**:
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
