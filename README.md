@@ -50,13 +50,13 @@ In addition to traditional analytical methods, I am exploring the application of
 
 <!--## Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=76basant&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)-->
-
 ## Guided Projects 💡
-1. **[Wavelet Package ](https://github.com/ct6502/wavelets)**: Torrence Package of Wavelet.  
-2. **[Cross-Wavelet & Wavelet Coherence Package ](https://github.com/grinsted/wavelet-coherence)**: Grinsted Package of Cross-Wavelet and Wavelet Coherence.
-3. **[Time Series Analysis in Matlab and Python ](https://github.com/76basant/Time-Series-Analysis/tree/58ff83eb7633388cd248d849672ec0e9d4c02974/Main%20Analysis)**: Main Analysis:
-### correlation
- 
+1. **[Wavelet Package](https://github.com/ct6502/wavelets)**: Torrence Package of Wavelet.  
+2. **[Cross-Wavelet & Wavelet Coherence Package](https://github.com/grinsted/wavelet-coherence)**: Grinsted Package of Cross-Wavelet and Wavelet Coherence.
+3. **[Time Series Analysis in Matlab and Python](https://github.com/76basant/Time-Series-Analysis/tree/58ff83eb7633388cd248d849672ec0e9d4c02974/Main%20Analysis)**: Main Analysis:
+   3.1. Correlation  
+   3.2. Smoothing Technique
+
 
 ## Notable Projects 💡  
 Here are some of my key projects that showcase my skills and expertise:
