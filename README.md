@@ -56,7 +56,9 @@ In addition to traditional analytical methods, I am exploring the application of
 3. **[Time Series Analysis in Matlab and Python](https://github.com/76basant/Time-Series-Analysis/tree/58ff83eb7633388cd248d849672ec0e9d4c02974/Main%20Analysis)**: 
 
    Main Analysis :
+   
    3.1. Correlation (Pearson & Running & Cross Correlation) 
+
    3.2. Smoothing Technique (Trailing & Moving Average)
 
 
