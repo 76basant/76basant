@@ -76,10 +76,9 @@ Here are some of my key projects that showcase my skills and expertise:
    - Main Code: Data analysis approach and Explanation of the method
    - Presentation: Results and findings
  
-3. **[Physics Lab Experiments](https://github.com/76basant/Physics-Lab-Experiments-.git)**: Physics Lab Experiments.  
-4. **[Time Series Analysis](https://github.com/76basant/Time-Series-Analysis.git)**: Time Series Analysis.
-5. **[Time Series - Machine Learning](https://github.com/76basant/Time-Series-Machine-Learning.git)**: Time Series Machine Learning. 
-6. **[Machine Learning Projects ](https://github.com/76basant/Machine-Learning-Projects.git)**: Machine Learning Projects.  
+3. **[Physics Lab Experiments](https://github.com/76basant/Physics-Lab-Experiments-.git)**: Physics Lab Experiments.
+4. **[Time Series - Machine Learning](https://github.com/76basant/Time-Series-Machine-Learning.git)**: Time Series Machine Learning.
+5. **[Machine Learning Projects ](https://github.com/76basant/Machine-Learning-Projects.git)**: Machine Learning Projects.  
 
 
 <!-- ## Achievements 🏆  
