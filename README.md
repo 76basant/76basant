@@ -57,9 +57,9 @@ In addition to traditional analytical methods, I am exploring the application of
 
    Main Analysis :
    
-   3.1. Correlation (Pearson & Running & Cross Correlation) 
+   - Correlation (Pearson & Running & Cross Correlation) 
 
-   3.2. Smoothing Technique (Trailing & Moving Average)
+   - Smoothing Technique (Trailing & Moving Average)
 
 
 ## Notable Projects 💡  
