@@ -65,20 +65,55 @@ In addition to traditional analytical methods, I am exploring the application of
 ## Notable Projects 💡  
 Here are some of my key projects that showcase my skills and expertise:
 
-1. **[Solar Physics Projects](https://github.com/76basant/Physics-Lab-Experiments-.git)**:
-   
-- **[Toward and Away Direction of IMF ](https://github.com/76basant/Solar-Physics-Projects/tree/3e425df82efdad6bffaefede083d43ef5a769154/Toward%20and%20Away%20Direction%20of%20IMF)** Splitting IMF Direction into Toward and Away.
-   - Source of Data: Download Data
-   - Main Code: Data analysis approach and Explanation of the method
-   - Presentation: Results and findings
-- **[Lomb Scargle Periodagram of Sunspot Area](https://github.com/76basant/Solar-Physics-Projects/tree/3e425df82efdad6bffaefede083d43ef5a769154/Toward%20and%20Away%20Direction%20of%20IMF)**Detection Periodicities using the Scargle Periodagram of Sunspot Area from cycles 21 to 24. 
-   - Source of Data: Download Data
-   - Main Code: Data analysis approach and Explanation of the method
-   - Presentation: Results and findings
- 
-3. **[Physics Lab Experiments](https://github.com/76basant/Physics-Lab-Experiments-.git)**: Physics Lab Experiments.
-4. **[Time Series - Machine Learning](https://github.com/76basant/Time-Series-Machine-Learning.git)**: Time Series Machine Learning.
-5. **[Machine Learning Projects ](https://github.com/76basant/Machine-Learning-Projects.git)**: Machine Learning Projects.  
+
+# Solar Physics Projects 💡  
+
+Welcome to my Solar Physics Projects repository! This repository showcases my research and expertise in analyzing solar and geomagnetic activity using advanced programming and analysis techniques.
+
+## Key Projects  
+
+### 1. [The Impact of Polarity of the Interplanetary Magnetic Field (IMF) on Solar Wind and Geomagnetic Indices Through Five Solar Cycles (20-24)](https://github.com/76basant/Solar-Physics-Projects/tree/3e425df82efdad6bffaefede083d43ef5a769154/Toward%20and%20Away%20Direction%20of%20IMF)
+- **Description**:  
+  This project examines the response of solar wind parameters (e.g., speed, pressure, and density) and geomagnetic indices (e.g., Dst and Ap) to the polarity of the IMF during the last five solar cycles (20-24).  
+- **Programming Languages**:  
+  Python, MATLAB  
+- **Analysis Techniques**:  
+  Running Correlation, Wavelet Analysis, Cross-Wavelet Analysis, Wavelet Coherence  
+
+---
+
+### 2. [The Interconnection Between Geomagnetic Indices Based on Asymmetry of Solar Activity](https://github.com/76basant/Solar-Physics-Projects/tree/main/Lomb%20Scargle%20Periodagram%20of%20SSA)
+- **Description**:  
+  Investigated the impact of unequal solar activity distribution on geomagnetic disturbances over the last four solar cycles (21-24).  
+- **Programming Languages**:  
+  Python, MATLAB  
+- **Analysis Techniques**:  
+  Lomb-Scargle Periodogram  
+
+---
+
+### 3. [Long-Short Term Neural Network Prediction of Solar Activity During Solar Cycles (20-24)](https://github.com/76basant/Solar-Physics-Projects/tree/main/LSTM%20of%20SSAs)
+- **Description**:  
+  Explored the use of Long-Short Term Memory (LSTM) neural networks to forecast solar activity trends for solar cycles (21-24) using historical data from solar cycles (12-20).  
+- **Programming Language**:  
+  Python  
+- **Analysis Techniques**:  
+  LSTM Neural Network Model  
+
+---
+
+## Contact  
+
+For any inquiries or collaborations, feel free to reach out:  
+📧 **Email**: basantmagdy0346@gmail.com  
+🌐 **GitHub**: [Basant's GitHub](https://github.com/76basant)
+
+
+
+
+
+
+
 
 
 <!-- ## Achievements 🏆  
@@ -86,7 +121,7 @@ Here are some of my key projects that showcase my skills and expertise:
 - Developed [Tool/Software Name] that [description of what it does].  
 - [Any other professional achievements or recognitions]. -->
 
-## Get in Touch 📬  
+<!--## Get in Touch 📬  
 - 📧 Email: [basantmagdyhabshy@gmail.com]  
 - 🔗 LinkedIn: [https://www.linkedin.com/in/ADoAACKqsvkB75qUcwvgLXBFjfRZ-OEwn61CMYI]
 
