@@ -62,13 +62,11 @@ In addition to traditional analytical methods, I am exploring the application of
    - Smoothing Technique (Trailing & Moving Average)
 
 
-## Notable Projects 💡  
-Here are some of my key projects that showcase my skills and expertise:
 
 
 # Solar Physics Projects 💡  
 
-Welcome to my Solar Physics Projects repository! This repository showcases my research and expertise in analyzing solar and geomagnetic activity using advanced programming and analysis techniques.
+ My Solar Physics Projects repository! This repository showcases my research and expertise in analyzing solar and geomagnetic activity using advanced programming and analysis techniques.
 
 ## Key Projects  
 
