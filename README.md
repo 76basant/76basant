@@ -55,7 +55,7 @@ In addition to traditional analytical methods, I am exploring the application of
    - Torrence Package of Wavelet.  
 3. **[Cross-Wavelet & Wavelet Coherence Package](https://github.com/grinsted/wavelet-coherence)**:
    - Grinsted Package of Cross-Wavelet and Wavelet Coherence.
-5. **[Time Series Analysis in Matlab and Python]((https://github.com/76basant/Time-Series-Analysis/tree/main/Main%20Analysis))**: 
+5. **[Time Series Analysis in Matlab and Python](https://github.com/76basant/Time-Series-Analysis/tree/main/Main%20Analysis)**: 
 
    Main Analysis :
    - Correlation (Pearson & Running & Cross Correlation) 
