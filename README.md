@@ -1,4 +1,4 @@
-# Hi there, I'm [Basant Magdy] 👋
+# Hi there, I'm Basant Magdy 👋
 
 
 ## About Me 🚀  
