@@ -80,7 +80,7 @@ In addition to traditional analytical methods, I am exploring the application of
 
 ---
 
-### 2. [The Interconnection Between Geomagnetic Indices Based on Asymmetry of Solar Activity]([https://github.com/76basant/Solar-Physics-Projects/tree/main/Lomb%20Scargle%20Periodagram%20of%20SSA](https://github.com/76basant/Solar-Physics-Projects/tree/main/Lomb%20Scargle%20Periodagram%20of%20SSA%20))
+### 2. [The Interconnection Between Geomagnetic Indices Based on Asymmetry of Solar Activity](https://github.com/76basant/Solar-Physics-Projects/tree/main/Lomb%20Scargle%20Periodagram%20of%20SSA%20)
 - **Description**:  
   Investigated the impact of unequal solar activity distribution on geomagnetic disturbances over the last four solar cycles (21-24).  
 - **Programming Languages**:  
