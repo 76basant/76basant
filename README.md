@@ -90,7 +90,7 @@ In addition to traditional analytical methods, I am exploring the application of
 
 ---
 
-### 3. [Long-Short Term Neural Network Prediction of Solar Activity During Solar Cycles (20-24)](https://github.com/76basant/Solar-Physics-Projects/tree/main/LSTM%20of%20SSAs)
+### 3. [Long-Short Term Neural Network Prediction of Solar Activity (SSAs, SSNs) During Solar Cycles (20-24)](https://github.com/76basant/Solar-Physics-Projects/tree/main/LSTM%20of%20SSAs)
 - **Description**:  
   Explored the use of Long-Short Term Memory (LSTM) neural networks to forecast solar activity trends for solar cycles (21-24) using historical data from solar cycles (12-20).  
 - **Programming Language**:  
