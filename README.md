@@ -90,7 +90,7 @@ In addition to traditional analytical methods, I am exploring the application of
 
 ---
 
-### 3. [Long-Short Term Neural Network Prediction of Solar Activity (SSAs, SSNs) During Solar Cycles (20-24)](https://github.com/76basant/Solar-Physics-Projects/tree/main/LSTM%20of%20SSAs)
+### 3. [Long-Short Term Neural Network Prediction of Solar Activity (SSAs) During Solar Cycles (20-24)](https://github.com/76basant/Solar-Physics-Projects/tree/main/LSTM%20of%20SSAs) & [Long-Short Term Neural Network Prediction of Solar Activity (SSAs, SSNs) During Solar Cycles (20-24)]([https://github.com/76basant/Solar-Physics-Projects/tree/main/LSTM%20of%20SSAs](https://github.com/76basant/Solar-Physics-Projects/tree/main/LSTM%20of%20SSNs))
 - **Description**:  
   Explored the use of Long-Short Term Memory (LSTM) neural networks to forecast solar activity trends for solar cycles (21-24) using historical data from solar cycles (12-20).  
 - **Programming Language**:  
@@ -98,39 +98,13 @@ In addition to traditional analytical methods, I am exploring the application of
 - **Analysis Techniques**:  
   LSTM Neural Network Model  
 
----
-
-# Long-Short Term Neural Network Prediction of Solar Activity (SSAs, SSNs)
-
-## Description
-This project explores the use of Long-Short Term Memory (LSTM) neural networks to forecast solar activity trends, specifically Solar Spectral Irradiance (SSAs) and Sunspot Numbers (SSNs). The model is trained using historical data from solar cycles (12-20) and predicts trends for solar cycles (21-24).  
-
-## Repository Links
-- [LSTM Prediction of Solar Spectral Irradiance (SSAs)](https://github.com/76basant/Solar-Physics-Projects/tree/main/LSTM%20of%20SSAs)  
-- [LSTM Prediction of Sunspot Numbers (SSNs)](https://github.com/76basant/Solar-Physics-Projects/tree/main/LSTM%20of%20SSNs)  
-
-## Programming Language
-- Python  
-
-## Analysis Techniques
-- Long-Short Term Memory (LSTM) Neural Network  
-
-## Usage
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/76basant/Solar-Physics-Projects.git
-
+--
 
 ## Contact  
 
 For any inquiries or collaborations, feel free to reach out:  
 📧 **Email**: basantmagdy0346@gmail.com  
 🌐 **GitHub**: [Basant's GitHub](https://github.com/76basant)
-
-
-
-
-
 
 
 
