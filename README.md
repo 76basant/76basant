@@ -90,7 +90,18 @@ In addition to traditional analytical methods, I am exploring the application of
 
 ---
 
-### 3. [Long-Short Term Neural Network Prediction of Solar Activity (SSAs) During Solar Cycles (20-24)](https://github.com/76basant/Solar-Physics-Projects/tree/main/LSTM%20of%20SSAs) & [Long-Short Term Neural Network Prediction of Solar Activity (SSAs, SSNs) During Solar Cycles (20-24)](https://github.com/76basant/Solar-Physics-Projects/tree/main/LSTM%20of%20SSNs)
+### 3. [ Investigation of Different Geomagnetic Storms During Solar Cycles 23 and 24]([https://github.com/76basant/Solar-Physics-Projects/tree/main/Lomb%20Scargle%20Periodagram%20of%20SSA%20](https://github.com/76basant/Solar-Physics-Projects/tree/main/Geomagnetic%20Storms))
+- **Description**:  
+  Investigation of Different Geomagnetic Storms During Solar Cycles 23 and 24  
+- **Programming Languages**:  
+  Python
+- **Analysis Techniques**:  
+  Time Series Analysis
+
+---
+
+
+### 4. [Long-Short Term Neural Network Prediction of Solar Activity (SSAs) During Solar Cycles (20-24)](https://github.com/76basant/Solar-Physics-Projects/tree/main/LSTM%20of%20SSAs) & [Long-Short Term Neural Network Prediction of Solar Activity (SSNs) During Solar Cycles (20-24)](https://github.com/76basant/Solar-Physics-Projects/tree/main/LSTM%20of%20SSNs)
 - **Description**:  
   Explored the use of Long-Short Term Memory (LSTM) neural networks to forecast solar activity trends for solar cycles (21-24) using historical data from solar cycles (12-20).  
 - **Programming Language**:  
