@@ -111,7 +111,7 @@ In addition to traditional analytical methods, I am exploring the application of
 
 --
 
-### 5. [Real-Time Monitoring of Ionosphere VTEC & STEC using Low Cost GNSS Receiver]([https://github.com/76basant/Solar-Physics-Projects/tree/3e425df82efdad6bffaefede083d43ef5a769154/Toward%20and%20Away%20Direction%20of%20IMF](https://github.com/76basant/Solar-Physics-Projects/tree/main/Real-Time%20Monitoring%20of%20Ionosphere%20VTEC%20%26%20STEC%20using%20Low%20Cost%20GNSS%20Receiver)
+### 5. [Real-Time Monitoring of Ionosphere VTEC & STEC using Low Cost GNSS Receiver](https://github.com/76basant/Solar-Physics-Projects/tree/main/Real-Time%20Monitoring%20of%20Ionosphere%20VTEC%20%26%20STEC%20using%20Low%20Cost%20GNSS%20Receiver)
 - **Description**:  
   This project examines the Evolution of VTEC & STEC Over time.  
 - **Programming Languages**:  
