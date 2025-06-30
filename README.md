@@ -62,7 +62,12 @@ In addition to traditional analytical methods, I am exploring the application of
    - Smoothing Technique (Trailing & Moving Average)
 
 
+##Data Prepration
 
+1. ** [Collect Hemesheric SSNs Data 1975-2025](https://github.com/76basant/Solar-Physics-Projects/tree/main/SSN_1975_2025)
+
+
+  
 
 # Solar Physics Projects 💡  
 
@@ -133,12 +138,6 @@ In addition to traditional analytical methods, I am exploring the application of
   Cross Wavelet & Wavelet Coherence
 
   ---
-
-### 7. [Collect Hemesheric SSNs Data 1975-2025](https://github.com/76basant/Solar-Physics-Projects/tree/main/SSN_1975_2025)
-
-- **Programming Languages**:  
-  Python
-  
 
 
   --
