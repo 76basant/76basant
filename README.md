@@ -140,7 +140,7 @@ In addition to traditional analytical methods, I am exploring the application of
   ---
 
 
-  --
+
 ## Contact  
 
 For any inquiries or collaborations, feel free to reach out:  
