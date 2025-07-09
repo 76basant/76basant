@@ -64,9 +64,9 @@ In addition to traditional analytical methods, I am exploring the application of
 
 ## Data Prepration 💡
 
-1. **[Collect Hemesheric SSNs Data 1975-2025](https://github.com/76basant/Solar-Physics-Projects/tree/main/SSN_1975_2025)
+1. [Collect Hemesheric SSNs Data 1975-2025](https://github.com/76basant/Solar-Physics-Projects/tree/main/SSN_1975_2025)
 
-2. **[Collect Hemesheric Solar Flare Index Data 1976 to 2023](https://github.com/76basant/Solar-Physics-Projects/tree/main/SFI_1976_2023)
+2. [Collect Hemesheric Solar Flare Index Data 1976 to 2023](https://github.com/76basant/Solar-Physics-Projects/tree/main/SFI_1976_2023)
   
 
 # Solar Physics Projects 💡  
