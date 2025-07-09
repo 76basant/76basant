@@ -136,6 +136,17 @@ In addition to traditional analytical methods, I am exploring the application of
   Wavelet
   Cross Wavelet & Wavelet Coherence
 
+
+
+### 7. [Gemagnetic Storms during solar cycles 23-24](https://github.com/76basant/Solar-Physics-Projects/tree/main/Real-Time%20Monitoring%20of%20Ionosphere%20VTEC%20%26%20STEC%20using%20Low%20Cost%20GNSS%20Receiver)
+- **Description**:  
+  This project examines the temporal variations of SF and geomagnetic indices.  
+- **Programming Languages**:  
+  Python
+- **Analysis Techniques**:  
+  Correlation Techniques
+  
+
   ---
 
 
