@@ -32,13 +32,16 @@ In addition to traditional analytical methods, I am exploring the application of
 ## Libraries Used
 
 
- [![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
- [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
- [![Matplotlib](https://img.shields.io/badge/Matplotlib-%2300c4cc.svg?style=flat-square&logo=python&logoColor=white)](https://matplotlib.org/)
- [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
- ![Wavelet](https://img.shields.io/badge/Wavelet-Processing-00bfae?style=flat-square)
- ![Cross-Wavelet and Wavelet Coherence](https://img.shields.io/badge/Cross--Wavelet%20and%20Wavelet%20Coherence-Analysis-0066cc?style=flat-square)
+[![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%2300c4cc.svg?style=flat-square&logo=python&logoColor=white)](https://matplotlib.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%2344A833.svg?style=flat-square&logo=python&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/)
 
+![Wavelet](https://img.shields.io/badge/Wavelet-Processing-00bfae?style=flat-square)
+![Cross-Wavelet and Wavelet Coherence](https://img.shields.io/badge/Cross--Wavelet%20and%20Wavelet%20Coherence-Analysis-0066cc?style=flat-square)
 
 # GitHub Stats for 76basant
 
@@ -136,6 +139,8 @@ In addition to traditional analytical methods, I am exploring the application of
   Wavelet
   Cross Wavelet & Wavelet Coherence
 
+
+---
 
 
 ### 7. [Gemagnetic Storms during solar cycles 23-24](https://github.com/76basant/Solar-Physics-Projects/tree/main/Real-Time%20Monitoring%20of%20Ionosphere%20VTEC%20%26%20STEC%20using%20Low%20Cost%20GNSS%20Receiver)
