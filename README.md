@@ -45,12 +45,11 @@ In addition to traditional analytical methods, I am exploring the application of
 
 # GitHub Stats for 76basant
 
-## My GitHub Stats
-![76basant's GitHub stats](https://github-readme-stats.vercel.app/api?username=76basant&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=76basant&show_icons=true&theme=radical&cache_seconds=1800)
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=76basant&layout=compact&theme=radical)
-
+## 💻 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=76basant&layout=compact&theme=radical&cache_seconds=1800)
 <!--## Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=76basant&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)-->
 ## Guided Projects 💡
